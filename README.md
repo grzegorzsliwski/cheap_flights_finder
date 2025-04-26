@@ -12,7 +12,7 @@ SMS alerts for price drops and special deals
 User-friendly desktop interface
 
 Technologies
-[tu możesz dopisać: e.g., Python, Electron, React, Twilio API (for SMS), etc.]
+Python (tkinter), MySQL, Twillio API, Tequilla API
 
 
 

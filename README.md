@@ -2,7 +2,7 @@
 Cheap Flights Finder is a desktop application designed to help users find the cheapest flight deals quickly and easily.
 The app monitors flight prices and sends real-time SMS alerts when a good deal is found, ensuring you never miss an opportunity to save money on your travels.
 
-Technologies
+Technologies:
 Python (tkinter), MySQL, Twillio API, Tequilla API
 
 

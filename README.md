@@ -1,4 +1,4 @@
-# Cheap Flights Finder
+# Cheap Flights Finder (university project)
 Cheap Flights Finder is a desktop application designed to help users find the cheapest flight deals quickly and easily.
 The app monitors flight prices and sends real-time SMS alerts when a good deal is found, ensuring you never miss an opportunity to save money on your travels.
 

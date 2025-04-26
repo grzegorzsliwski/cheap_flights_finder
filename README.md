@@ -1,4 +1,20 @@
-# cheap_flights_final
+# Cheap Flights Finder
+Cheap Flights Finder is a desktop application designed to help users find the cheapest flight deals quickly and easily.
+The app monitors flight prices and sends real-time SMS alerts when a good deal is found, ensuring you never miss an opportunity to save money on your travels.
+
+Features
+Search and filter cheap flights
+
+Real-time flight monitoring
+
+SMS alerts for price drops and special deals
+
+User-friendly desktop interface
+
+Technologies
+[tu możesz dopisać: e.g., Python, Electron, React, Twilio API (for SMS), etc.]
+
+
 
 ![image](https://github.com/user-attachments/assets/c99b3d26-9a58-45bb-9ec4-847dc787ecf5)
 ![image](https://github.com/user-attachments/assets/40946a20-cf40-416d-924c-5af2f06e3b1f)
